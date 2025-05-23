@@ -8,7 +8,7 @@ This project provides a conceptual overview and basic implementation of a **Gene
 - Configurable parameters: population size, mutation rate, number of generations.
 - Clear code structure for educational purposes.
 
-## 🧠 What is a Genetic Algorithm?
+## What is a Genetic Algorithm?
 A Genetic Algorithm is a method for solving optimization problems based on the principles of **natural selection** and **genetics**. It involves:
 - **Initialization**: Generate an initial population of potential solutions.
 - **Selection**: Select the fittest individuals for reproduction.
@@ -16,7 +16,7 @@ A Genetic Algorithm is a method for solving optimization problems based on the p
 - **Mutation**: Randomly modify genes to maintain diversity.
 - **Termination**: Stop after a fixed number of generations or when an optimal solution is found.
 
-💻 Technologies Used
+Technologies Used
 Language: C++
 IDE: Visual Studio / Code::Blocks / Dev C++
 
